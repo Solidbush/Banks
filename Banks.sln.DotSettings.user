@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7b475ad5_002D0eee_002D4120_002Da114_002Dbd906e833680/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddBanksWithClients_CentralBankContainsBanksAndClients #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E04D90C9-7939-4343-ABE2-CE4F42A0EA94::net6.0::UnitTestsBanks.UnitTest1.AddBanksWithClients_CentralBankContainsBanksAndClients&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6895f1d_002De9c8_002D4414_002Dbb43_002D835d10ce2179/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddBanksWithClients_CentralBankContainsBanksAndClients" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E04D90C9-7939-4343-ABE2-CE4F42A0EA94::net6.0::UnitTestsBanks.UnitTest1.AddBanksWithClients_CentralBankContainsBanksAndClients&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e7be808e_002D9c48_002D4923_002Da210_002D8fe8413217b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddBanksWithClients_CentralBankContainsBanksAndClients #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E04D90C9-7939-4343-ABE2-CE4F42A0EA94::net6.0::UnitTestsBanks.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,15 @@
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.csproj.AssemblyReference.cache
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.AssemblyInfoInputs.cache
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.AssemblyInfo.cs
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.csproj.CoreCompileInputs.cache
+D:\Users\Volirvag\RiderProjects\Banks\Banks\bin\Debug\net6.0\Banks.exe
+D:\Users\Volirvag\RiderProjects\Banks\Banks\bin\Debug\net6.0\Banks.deps.json
+D:\Users\Volirvag\RiderProjects\Banks\Banks\bin\Debug\net6.0\Banks.runtimeconfig.json
+D:\Users\Volirvag\RiderProjects\Banks\Banks\bin\Debug\net6.0\Banks.dll
+D:\Users\Volirvag\RiderProjects\Banks\Banks\bin\Debug\net6.0\Banks.pdb
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.dll
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\refint\Banks.dll
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.pdb
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\Banks.genruntimeconfig.cache
+D:\Users\Volirvag\RiderProjects\Banks\Banks\obj\Debug\net6.0\ref\Banks.dll
